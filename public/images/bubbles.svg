@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="40" cy="40" r="20" fill="white" opacity="0.3"/>
+  <circle cx="100" cy="30" r="15" fill="white" opacity="0.2"/>
+  <circle cx="160" cy="50" r="25" fill="white" opacity="0.3"/>
+  <circle cx="30" cy="100" r="18" fill="white" opacity="0.2"/>
+  <circle cx="90" cy="90" r="22" fill="white" opacity="0.3"/>
+  <circle cx="150" cy="110" r="16" fill="white" opacity="0.2"/>
+  <circle cx="50" cy="160" r="24" fill="white" opacity="0.3"/>
+  <circle cx="120" cy="150" r="19" fill="white" opacity="0.2"/>
+  <circle cx="180" cy="170" r="21" fill="white" opacity="0.3"/>
+</svg> 
