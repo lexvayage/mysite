@@ -13,7 +13,16 @@ export default function Home() {
           name="description"
           content="每月一盒，惊喜游进你的鱼缸！优质鱼食、水族装饰和清洁工具直送上门。"
         />
-        <link rel="icon" href="/favicon.ico" />
+        <meta property="og:title" content="FishBox – 每月水族馆订阅盒" />
+<meta property="og:description" content="每月一盒，惊喜游进你的鱼缸！优质鱼食、水族装饰和清洁工具直送上门。" />
+<meta property="og:image" content="/opengraph-image.png" />
+<meta property="og:url" content="https://www.lexdemo.cloud/" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="FishBox – 每月水族馆订阅盒" />
+<meta name="twitter:description" content="每月一盒，惊喜游进你的鱼缸！优质鱼食、水族装饰和清洁工具直送上门。" />
+<meta name="twitter:image" content="/twitter-image.png" />
+<link rel="canonical" href="https://www.lexdemo.cloud/" />
+<link rel="icon" href="/favicon.ico" />
       </Head>
 
       {/* Navbar */}
